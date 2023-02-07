@@ -12,6 +12,7 @@ const guessField = document.querySelector('.guessField');
 
 let guessCount = 1;
 let resetButton;
+guessField.focus();
 
 
 //This function retrieves the number entered by the user from the text field and applies several conditional tests to determine the flow of actions
