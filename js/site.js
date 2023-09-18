@@ -6,7 +6,7 @@ const guesses = document.querySelector('.guesses');
 const lastResult = document.querySelector('.lastResult');
 const lowOrHi = document.querySelector('.lowOrHi');
 
-// Declares a constant identifying the text imput field and Submit Guess button
+// Declares a constant identifying the text input field and Submit Guess button
 const guessSubmit = document.querySelector('.guessSubmit');
 const guessField = document.querySelector('.guessField');
 
